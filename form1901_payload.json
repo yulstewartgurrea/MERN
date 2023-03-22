@@ -1,0 +1,206 @@
+{
+  "formApplications": {
+    "Type": "sadfsf",
+    "philSysNo": "123123",
+    "Branch_Code": "asdf",
+    "FirstName": "asdfsafd",
+    "MiddleName": "asdf",
+    "LastName": "asdf",
+    "Suffix": "N/A",
+    "Nickname": "asdfsdf",
+    "Gender": "Male",
+    "CivilStatus": "Married",
+    "DateofBirth": "2004-08-10",
+    "BirthPlace": "asdfsadf",
+    "Citizenship": "AFGHANISTAN - AFGHAN",
+    "OtherCitizenship": "AFGHANISTAN - AFGHAN",
+    "MothersMaidenName": "asfd",
+    "FathersName": "sadf",
+    "TINPurpose": "BUSINESS",
+    "Tin": "987654321",
+    "BranchCode": "asdf",
+    "TinPurpose": "BUSINESS",
+    "IDType": "BirthCertificate",
+    "IDNo": "asdf",
+    "IDEffectiveDate": "",
+    "IDExpiryDate": "",
+    "IDIssuer": "asdf",
+    "IssuePlaceCountry": "AD",
+    "EmailAddress": "seanjoshua_orus11@yopmail.com",
+    "AreaCodeMobileNo": "asdf",
+    "MobileNo": "asfd",
+    "AreaCodeLandlineNo": "asf",
+    "LandlineNo": "asdf",
+    "AreaCodeFaxNo": "asdf",
+    "FaxNo": "asdf",
+    "status": "Submitted"
+  },
+  "taxpayeraddress": [
+    {
+      "ProvinceCode": "160200000",
+      "MunicipalityCode": "160204000",
+      "Town_District": "dsgfdsfg",
+      "BarangayCode": "160204010",
+      "Unit_RoomNo": "fsdf",
+      "Building_Tower": "sadf",
+      "Lot_Block_Phaseno": "asdf",
+      "Street": "asdf",
+      "Subdivision_Village": "asdf",
+      "Zipcode": "8603",
+      "isPrimary": 1
+    }
+  ],
+  "businessaddress": [
+    {
+      "SameAsBusinessAddress": true,
+      "ProvinceCode": "160200000",
+      "MunicipalityCode": "160204000",
+      "Town_District": "dsgfdsfg",
+      "BarangayCode": "160204010",
+      "Unit_RoomNo": "fsdf",
+      "Building_Tower": "sadf",
+      "Lot_Block_Phaseno": "asdf",
+      "Street": "asdf",
+      "Subdivision_Village": "asdf",
+      "Zipcode": "8603",
+      "isPrimary": 1
+    }
+  ],
+  "foreignresidenceaddress": {
+    "CountryCode": "AL",
+    "RegionStateCode": "BU",
+    "Town_District": "asdf",
+    "Street": "asdf",
+    "Zipcode": "asdf",
+    "AreaCodeMobileNo": "asfd",
+    "MobileNo": "asdf",
+    "AreaCodeLandlineNo": "asdf",
+    "LandlineNo": "asdf",
+    "AreaCodeFaxNo": "asdf",
+    "FaxNo": "asdf"
+  },
+  "foreignbusinessaddress": {
+    "HasBusinessAddress": "Yes",
+    "SameAsForeignResidenceAddress": true,
+    "CountryCode": "AL",
+    "RegionStateCode": "BU",
+    "Town_District": "asdf",
+    "Street": "asdf",
+    "Zipcode": "asdf",
+    "temp_country": "",
+    "temp_regstate": "",
+    "AreaCodeMobileNo": "asfd",
+    "MobileNo": "asdf",
+    "AreaCodeLandlineNo": "asdf",
+    "LandlineNo": "asdf",
+    "AreaCodeFaxNo": "asdf",
+    "FaxNo": "asdf"
+  },
+  "businessinfo": {
+    "Occupation": [
+      {
+        "PSOCCode": "8181",
+        "LineOfBusiness": "ABRASIVES MAKER"
+      }
+    ],
+    "Phbn": "",
+    "HasBusinessName": "Yes",
+    "HasPHBN": "No",
+    "BusinessNames": [
+      {
+        "BusinessName": "dgdsfg",
+        "RegulatoryBody": "CLIMATE CHANGE COMMISSION",
+        "BusinessRegNo": "dsfgdfg",
+        "BusinessRegDate": "2022-08-17",
+        "Industries": []
+      }
+    ],
+    "InvestmentPormotionAgency": "BARANGAY MICRO BUSINESS ENTERPRISE (BMBE)",
+    "LegalBasis": "RA_9178",
+    "IncentiveGranted": "BMBE_ITH",
+    "NumOfYrs": "4",
+    "IncentiveStartDate": "2022-08-17",
+    "IncentiveEndDate": "2022-08-17",
+    "RegNo": "4",
+    "InvestmentPromotion": "",
+    "effectDateFrom": "2022-08-10",
+    "effectDateTo": "2022-08-17",
+    "RegIssuedDate": "2022-08-10",
+    "WithTaxIncentives": "Yes",
+    "RegActivity": [
+      {
+        "RegisteredActivity": "asdfsadf",
+        "TaxRegime": "TR-REG",
+        "StartDate": "2022-08-09",
+        "EndDate": "2022-08-10"
+      }
+    ]
+  },
+  "spouseinfo": {
+    "EmpStatus": "Unemployed",
+    "Spouse_First_Name": "",
+    "Spouse_Middle_Name": "",
+    "Spouse_No_Middle_Name": false,
+    "Spouse_Last_Name": "",
+    "Spouse_Suffix": "",
+    "Spouse_TIN": "",
+    "Spouse_Employer_IND_NONIND": "Individual",
+    "Spouse_Employer_FirstName": "",
+    "Spouse_Employer_MiddleName": "",
+    "Spouse_Employer_No_MiddleName": false,
+    "Spouse_Employer_LastName": "",
+    "Spouse_Employer_Suffix": "",
+    "Spouse_Employer_TIN": "",
+    "Spouse_Employer_Registered_Name": ""
+  },
+  "WithholdingAgent_AccreditedTaxAgenInformation": null,
+  "print": {
+    "NameOfPrinter": "MELVIN PARICO REYES",
+    "PrinterTIN": "293-062-659-00000",
+    "AccredNo": "21BMP20160000000036",
+    "AccredDate": "2016-08-04 00:00:00",
+    "RegAddress": "VILLA CARMEN SUBD,SAN MATIAS,STO TOMAS,SANTO TOMAS,PAMPANGA,PHILIPPINES",
+    "PrinterContactNo": null,
+    "PrinterEmail": null
+  },
+  "taxpayerinfo": null,
+  "taxpayertininfo": null,
+  "invoice": [
+    {
+      "MannerOfReceiptAndInvoices": "bound",
+      "kindOfReceiptsAndInvoices": "principal",
+      "Description": "BILL OF LADING",
+      "TypeOfReceiptAndInvoices": "vat",
+      "NumOfBoxesBooklet": "",
+      "NumOfSetsPerBoxBookelt": "",
+      "NumOfCopiesPerSet": "",
+      "Prefix_RecAndInv": "",
+      "SerialNumStart": "",
+      "SerialNumEnd": "",
+      "Suffix_RecAndInv": "asdf",
+      "id": 1
+    }
+  ],
+  "currentemployer": null,
+  "transactionlog": null,
+  "representative": {
+    "HasAuthRep": "No",
+    "RepAuthorizedTIN": "",
+    "RepEmail": "",
+    "RepFirstname": "",
+    "RepLastName": "",
+    "RepMiddleName": "",
+    "RepMobileNo": "",
+    "RepRelStartDate": "",
+    "RepRelationshipType": "",
+    "RepSuffix": ""
+  },
+  "newDocumentType": {
+    "0": {
+      "docTypeId": 1,
+      "docTypeFormNo": "Form 1901",
+      "docTypeDesc": "ImageHoldingID",
+      "docTypeKey": "FAQMERAWeb2S7qPmImageHoldingID1660142243.pdf"
+    }
+  }
+}

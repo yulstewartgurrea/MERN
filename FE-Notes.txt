@@ -1,0 +1,2 @@
+Create react app
+1. npx create-react-app <name_of_application>
